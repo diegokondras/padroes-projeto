@@ -1,4 +1,4 @@
-package br.com.pagamentos.facade;
+package br.com.pagamentos.facadepattern;
 
 public class MetodoPagamentoFacade {
 	
